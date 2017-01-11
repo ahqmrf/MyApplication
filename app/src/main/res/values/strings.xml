@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fname_prompt">Enter your first name</string>
+    <string name="sname_prompt">Enter your second name</string>
+    <string name="email_prompt">Email</string>
+    <string name="phone_prompt">Phone</string>
+</resources>
